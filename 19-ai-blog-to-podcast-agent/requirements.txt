@@ -1,0 +1,6 @@
+streamlit
+agno
+ollama
+requests
+beautifulsoup4
+pyttsx3
