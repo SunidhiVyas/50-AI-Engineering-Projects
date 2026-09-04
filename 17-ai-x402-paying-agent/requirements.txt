@@ -1,0 +1,7 @@
+x402[evm,httpx,fastapi]
+eth-account
+httpx
+fastapi
+uvicorn
+agno
+ollama
